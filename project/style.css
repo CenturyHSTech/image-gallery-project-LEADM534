@@ -1,0 +1,35 @@
+body {
+    font-family: "Merriweather", serif;
+    color: #394A59;
+    background-color: #D8D8D6;
+}
+h1, h2 {
+    font-family: "Oswald", sans-serif;
+}
+header {
+    background-image: url("images/header.image.road.jpg");
+    background-repeat: no-repeat;
+    height: 250px;
+    padding: 2em;
+}
+header div {
+    background-color: #d8d8d66b;
+    padding: 0.8em;
+    max-width: 98%;
+    width: 25vw;
+}
+figure {
+    margin: 0.5em;
+    border-color: #59551B;
+    border-width: 3px;
+    border-style: solid;
+    padding: 0.4em;
+    width: 400px;
+    background-color: #ACB3BD;
+}
+figure img {
+    width: 100%;
+}
+footer {
+    clear: both;
+}
