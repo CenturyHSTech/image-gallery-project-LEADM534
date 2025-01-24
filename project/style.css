@@ -18,6 +18,11 @@ header div {
     max-width: 98%;
     width: 25vw;
 }
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 figure {
     margin: 0.5em;
     border-color: #59551B;
