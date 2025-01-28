@@ -6,11 +6,14 @@ body {
 h1, h2 {
     font-family: "Oswald", sans-serif;
 }
+h2 {
+    margin: 0.1em
+}
 header {
     background-image: url("images/header.image.road.jpg");
     background-repeat: no-repeat;
     height: 250px;
-    padding: 2em;
+    padding: 1.8em;
 }
 header div {
     background-color: #d8d8d66b;
@@ -24,11 +27,11 @@ main {
     justify-content: center;
 }
 figure {
-    margin: 0.5em;
+    margin: 0.3em;
     border-color: #59551B;
     border-width: 3px;
     border-style: solid;
-    padding: 0.4em;
+    padding: 0.4vw;
     width: 400px;
     background-color: #ACB3BD;
 }
